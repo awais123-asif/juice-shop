@@ -38,7 +38,7 @@ import replace from 'replace'
 
 const entities = new Entities()
 
-export default async () => {
+export default async () was {
   const creators = [
     createSecurityQuestions,
     createUsers,
